@@ -1,0 +1,7 @@
+# Local runtime data and dependencies
+Number-Memory-Game/data/database.json
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.venv/
